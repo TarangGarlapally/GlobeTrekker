@@ -1,0 +1,5 @@
+{
+  "name": "Globe Trekker AI",
+  "description": "A 3D immersive globe explorer that lets you visit famous landmarks, view AI-generated imagery, discover things to do, and explore historical timelines with visual reconstructions using Gemini AI.",
+  "requestFramePermissions": []
+}
